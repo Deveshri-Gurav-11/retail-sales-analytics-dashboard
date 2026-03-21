@@ -42,7 +42,7 @@ An interactive dashboard was created using Power BI to visualize:
 - Top 10 Products
 - Monthly Sales Trends
 
-![Sales Dashboard](visuals/Sales data Analysis Dashboard.png)
+![Sales Data Analysis Dashboard](visuals/Sales data Analysis Dashboard.png)
 
 Key Business Insights
 - The West region generates the highest sales, followed by the East region.
