@@ -34,7 +34,7 @@ Identified top-performing products and trends
 Built interactive dashboards with key KPIs and drill-down capabilities
 
 📊 Dashboard
-
+![Sales_Data_Analysis](visuals/Sales_Data_Analysis_Dashboard.png)
 
 📈 Key Insights
 The West region generates the highest revenue, followed by the East
